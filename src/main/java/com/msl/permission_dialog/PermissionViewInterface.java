@@ -8,6 +8,7 @@ public interface PermissionViewInterface {
     void setHeaderText(String headerText);
     void setSubHeaderText(String subHeaderText);
     void setNoteText(String noteText);
+    void setNoteTextVisibility(int visibility);
     void setRightBtnText(String rightBtnText);
     void setLeftBtnText(String leftBtnText);
     void setHeaderTextSize(int size);

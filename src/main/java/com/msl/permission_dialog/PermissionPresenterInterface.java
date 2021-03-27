@@ -7,6 +7,7 @@ public interface PermissionPresenterInterface {
     View getPermissionView();
     void showDialog();
     void dismissDialog();
+    void showNoteText(int visibility);
     void onDestroy();
     void onLeftBtnVisibility(int visibility);
     void onRightBtnClicked();

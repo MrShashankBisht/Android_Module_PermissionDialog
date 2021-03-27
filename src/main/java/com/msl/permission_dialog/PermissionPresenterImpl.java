@@ -305,4 +305,11 @@ public class PermissionPresenterImpl implements PermissionPresenterInterface {
             permissionListenerWeakReference.get().onLeftBtnClicked();
         }
     }
+
+    @Override
+    public void showNoteText(int visibility) {
+        if(visibility == View.VISIBLE || visibility == View.GONE){
+            permissionViewInterface.setNoteTextVisibility(visibility);
+        }
+    }
 }

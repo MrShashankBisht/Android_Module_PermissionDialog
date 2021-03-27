@@ -122,6 +122,7 @@ public class PermissionViewImpl extends RelativeLayout implements PermissionView
     public void setButtonBackgroundColor(int color) {
         this.setBackgroundColor(color);
         ((AppCompatTextView) findViewById(R.id.permission_layout_right_textButton)).setBackgroundColor(color);
+        ((AppCompatTextView) findViewById(R.id.permission_layout_left_textButton)).setBackgroundColor(color);
     }
 
     @Override
@@ -137,6 +138,11 @@ public class PermissionViewImpl extends RelativeLayout implements PermissionView
     @Override
     public void setNoteText(String noteText) {
         ((AppCompatTextView) findViewById(R.id.permission_layout_note_textView)).setText(noteText);
+    }
+
+    @Override
+    public void setNoteTextVisibility(int visibility) {
+        ((AppCompatTextView) findViewById(R.id.permission_layout_note_textView)).setVisibility(visibility);
     }
 
     @Override
