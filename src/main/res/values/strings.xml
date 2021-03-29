@@ -2,7 +2,7 @@
 <resources>
     <string name="camera">Camera</string>
     <string name="permission_dialog">Permission Dialog</string>
-    <string name="hello_this_is_a_permmission_sub_textview_text">Hello This is a permmission Sub_textView Text</string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">Hello This is a permission Sub_textView Text</string>
     <string name="ok">Ok</string>
     <string name="setting">Setting</string>
 </resources>
