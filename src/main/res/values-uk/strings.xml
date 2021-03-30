@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                                Камера    </string>
+    <string name="permission_dialog">                                     Діалогове вікно дозволів    </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">         Привіт! Це дозвіл Sub_textView Text    </string>
+    <string name="ok">                                                    Добре    </string>
+    <string name="setting">                                               Налаштування    </string>
+</resources>

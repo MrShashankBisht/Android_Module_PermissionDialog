@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                              ক্যামেরা      </string>
+    <string name="permission_dialog">                                   অনুমতি সংলাপ      </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">       হ্যালো এটি একটি অনুমতি সাব_টেক্সটভিউ পাঠ্য      </string>
+    <string name="ok">                                                  ঠিক আছে      </string>
+    <string name="setting">                                             স্থাপন      </string>
+</resources>

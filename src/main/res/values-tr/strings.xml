@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                               Kamera     </string>
+    <string name="permission_dialog">                                    İzin İletişim Kutusu     </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">        Merhaba Bu bir izin Sub_textView Metindir     </string>
+    <string name="ok">                                                   Tamam mı     </string>
+    <string name="setting">                                              Ayar     </string>
+</resources>

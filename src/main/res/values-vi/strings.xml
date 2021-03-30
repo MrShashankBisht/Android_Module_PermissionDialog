@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                             Máy ảnh       </string>
+    <string name="permission_dialog">                                  Hộp thoại Quyền       </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">      Xin chào Đây là một Văn bản Sub_textView hoán vị       </string>
+    <string name="ok">                                                 Đồng ý       </string>
+    <string name="setting">                                            Cài đặt       </string>
+</resources>

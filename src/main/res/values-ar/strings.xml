@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                            الة تصوير        </string>
+    <string name="permission_dialog">                                 حوار الأذونات        </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">     مرحباً هذا نص Sub_textView        </string>
+    <string name="ok">                                                نعم        </string>
+    <string name="setting">                                           جلسة        </string>
+</resources>

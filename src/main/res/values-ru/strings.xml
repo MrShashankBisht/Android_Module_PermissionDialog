@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                                Камера    </string>
+    <string name="permission_dialog">                                     Диалог разрешений    </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">         Здравствуйте, это разрешение Sub_textView Text    </string>
+    <string name="ok">                                                    В порядке    </string>
+    <string name="setting">                                               Параметр    </string>
+</resources>

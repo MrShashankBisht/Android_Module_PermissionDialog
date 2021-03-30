@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                               相机     </string>
+    <string name="permission_dialog">                                    权限对话框     </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">        您好，这是权限Sub_textView文本     </string>
+    <string name="ok">                                                   好的     </string>
+    <string name="setting">                                              环境     </string>
+</resources>

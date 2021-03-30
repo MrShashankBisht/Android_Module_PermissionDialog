@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                                 کیمرہ   </string>
+    <string name="permission_dialog">                                      اجازت نامہ   </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">          ہیلو یہ اجازت نامہ ہے   </string>
+    <string name="ok">                                                     ٹھیک ہے   </string>
+    <string name="setting">                                                سیٹنگ   </string>
+</resources>

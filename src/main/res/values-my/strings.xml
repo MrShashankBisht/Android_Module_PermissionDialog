@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                                ကင်မရာ    </string>
+    <string name="permission_dialog">                                     ခွင့်ပြုချက် Dialog    </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">         မင်္ဂလာပါ၊ ဒါက Sub_textView စာသားပါ    </string>
+    <string name="ok">                                                    ရလား    </string>
+    <string name="setting">                                               ချိန်ညှိခြင်း    </string>
+</resources>

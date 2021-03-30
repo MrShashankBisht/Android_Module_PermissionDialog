@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                                 กล้อง   </string>
+    <string name="permission_dialog">                                      กล่องโต้ตอบสิทธิ์   </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">          สวัสดีนี่คือข้อความ Sub_textView ที่มีการเบี่ยงเบน   </string>
+    <string name="ok">                                                     ตกลง   </string>
+    <string name="setting">                                                การตั้งค่า   </string>
+</resources>

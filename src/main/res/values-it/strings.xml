@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                               telecamera     </string>
+    <string name="permission_dialog">                                    Finestra di dialogo delle autorizzazioni     </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">        Ciao Questo è un permesso Sub_textView Text     </string>
+    <string name="ok">                                                   Ok     </string>
+    <string name="setting">                                              Ambientazione     </string>
+</resources>

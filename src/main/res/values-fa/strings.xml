@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera">                                               دوربین     </string>
+    <string name="permission_dialog">                                    گفتگوی مجوز     </string>
+    <string name="hello_this_is_a_permmission_sub_textview_text">        سلام این یک متن مجاز Sub_textView است     </string>
+    <string name="ok">                                                   خوب     </string>
+    <string name="setting">                                              تنظیمات     </string>
+</resources>
