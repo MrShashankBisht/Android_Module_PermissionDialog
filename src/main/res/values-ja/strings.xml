@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="camera">                                                  カメラ  </string>
-    <string name="permission_dialog">                                       許可ダイアログ  </string>
-    <string name="hello_this_is_a_permmission_sub_textview_text">           こんにちはこれはパーミッションですSub_textViewText  </string>
-    <string name="ok">                                                      OK  </string>
-    <string name="setting">                                                 設定  </string>
-</resources>
